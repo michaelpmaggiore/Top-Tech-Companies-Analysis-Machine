@@ -1,0 +1,703 @@
+Name,Score,Lowercase,Location pay by rank- https://www.levels.fyi/2021/
+Google,7,google,Ask people for referrels from a subreddit cause why not
+Pinterest,7,pinterest,Go through CSV file and MAKE SURE THAT company names have no duplicates- https://docs.google.com/spreadsheets/d/1QOYYS_1fN7eO8rTBHYLv1tQ1dMPeqgIKbIE6CP-yFzg/edit#gid=1368926779
+Linkedin,9,linkedin,
+Facebook,5,facebook,
+Netflix,7,netflix,
+Airbnb,7,airbnb,
+Lyft,8,lyft,
+Apple,7,apple,
+Slack,6,slack,
+Salesforce,7,salesforce,
+Nvidia,4,nvidia,
+Snap,4,snap,
+Uber,5,uber,
+Twitter,5,twitter,
+DoorDash,7,doordash,
+Palantir,4,palantir,
+Amazon,4,amazon,
+Square,5,square,
+Splunk,4,splunk,
+microsoft,10,microsoft,
+Stripe,8,stripe,
+Bloomberg,2,bloomberg,
+Datadog,3,datadog,
+Oracle,2,oracle,
+Adobe,6,adobe,
+Paypal,4,paypal,
+Walmart Labs,2,walmart labs,
+Jane Street,3,jane street,
+Two Sigma,4,two sigma,
+Citadel,2,citadel,
+Robinhood,6,robinhood,
+Tableau,3,tableau,
+Quora,4,quora,
+Dropbox,4,dropbox,
+vmWare,4,vmware,
+Okta,4,okta,
+Shopify,4,shopify,
+Discord,3,discord,
+HRT,1,hrt,
+Databricks,5,databricks,
+Tiktok,2,tiktok,
+Coinbase,3,coinbase,
+Snowflake,2,snowflake,
+Roblox,4,roblox,
+Wish,3,wish,
+Yelp,3,yelp,
+IBM,1,ibm,
+Visa,2,visa,
+GS,1,gs,
+Morgan Stanley,1,morgan stanley,
+Witch,1,witch,
+Baidu,1,baidu,
+Alibaba,1,alibaba,
+Tencent,1,tencent,
+Xiaomi,1,xiaomi,
+JD,1,jd,
+Meituan,1,meituan,
+Cloudera,2,cloudera,
+Cruise,5,cruise,
+Roku,2,roku,
+MongoDB,2,mongodb,
+Wepay,1,wepay,
+Zoox,1,zoox,
+Broadcom,1,broadcom,
+Ebay,3,ebay,
+Yahoo,2,yahoo,
+Atlassian,4,atlassian,
+Tesla,2,tesla,
+Indeed,2,indeed,
+Workday,1,workday,
+Smarsheet,1,smarsheet,
+Zendesk,3,zendesk,
+Quaktrics,1,quaktrics,
+HubSpot,2,hubspot,
+GS Marcus,1,gs marcus,
+Palo Alto Networks,2,palo alto networks,
+Zynga,3,zynga,
+Credit Karma,1,credit karma,
+AppDynamics,1,appdynamics,
+Square Space,1,square space,
+Pandora,2,pandora,
+Box,5,box,
+Spotify,3,spotify,
+Etsy,2,etsy,
+DocuSign,3,docusign,
+Disney+,1,disney+,
+Hulu,2,hulu,
+Intruit,1,intruit,
+Zoom,2,zoom,
+Zillow,5,zillow,
+Yexy,1,yexy,
+Nutanix,1,nutanix,
+HBO Max,1,hbo max,
+App Nexus,1,app nexus,
+GS Marquee,1,gs marquee,
+Cisco Meraki,1,cisco meraki,
+Tinder,2,tinder,
+Glassdoor,1,glassdoor,
+Cisco Umbrella,1,cisco umbrella,
+Activision,2,activision,
+Blizzard Media,1,blizzard media,
+Expedia,1,expedia,
+Cloudflare,1,cloudflare,
+Wayfair,2,wayfair,
+GoDaddy,1,godaddy,
+Autodesk,3,autodesk,
+Groupon,2,groupon,
+Booking,1,booking,
+RetailMeNot,1,retailmenot,
+JustEat/GrubHub,1,justeat/grubhub,
+Intel,1,intel,
+HP,1,hp,
+HPE,1,hpe,
+SAP,1,sap,
+Dell,1,dell,
+Samsung,1,samsung,
+Qualcomm,1,qualcomm,
+Akamai,1,akamai,
+Citrix,2,citrix,
+MasterCard,1,mastercard,
+NetApp,1,netapp,
+AMD,1,amd,
+Sony,2,sony,
+Xerox,1,xerox,
+ASUS,1,asus,
+Lenovo,1,lenovo,
+Target,1,target,
+Ford,1,ford,
+Lockheed,1,lockheed,
+Affirm,3,affirm,
+Airtable,3,airtable,
+Asana,3,asana,
+Benching,1,benching,
+Blend,2,blend,
+Brex,4,brex,
+Chime,2,chime,
+Checkr,2,checkr,
+Clever,2,clever,
+Confluent,2,confluent,
+Coursera,3,coursera,
+Flexport,2,flexport,
+Gusto,3,gusto,
+Nextdoor,3,nextdoor,
+Opendoor,3,opendoor,
+Oscar Health,2,oscar health,
+Plaid,5,plaid,
+Samsara,2,samsara,
+TripActions,2,tripactions,
+Garmin,3,garmin,
+Red Hat,1,red hat,
+Comcast,1,comcast,
+Twitch,4,twitch,
+Instacart,3,instacart,
+Nuro,4,nuro,
+UiPath,2,uipath,
+Waymo,1,waymo,
+ByteDance,1,bytedance,
+Hudson River Trading,1,hudson river trading,
+Capital One,1,capital one,
+Bolt,3,bolt,
+Sofi,1,sofi,
+Aclima,1,aclima
+Adjust,1,adjust
+Afterpay,1,afterpay
+Algolia,1,algolia
+Amplitude,1,amplitude
+Andela,1,andela
+Anduril,1,anduril
+App Annie,1,app annie
+AppZen,1,appzen
+Arctic Wolf,1,arctic wolf
+Attentive,1,attentive
+Auth0,1,auth0
+Behance,1,behance
+Benchling,1,benchling
+Better,1,better
+BetterCloud,1,bettercloud
+BlockFi,1,blockfi
+Branch,1,branch
+Braze,1,braze
+Bright Health,1,bright health
+Buffer,1,buffer
+Built,1,built
+Calendly,1,calendly
+Calm,1,calm
+Cameo,1,cameo
+CampusLogic,1,campuslogic
+Capsule,1,capsule
+Carbon,1,carbon
+Carta,1,carta
+Cedar,1,cedar
+Cerebras,1,cerebras
+Chainalysis,1,chainalysis
+Chartboost,1,chartboost
+ChowNow,1,chownow
+CircleCI,1,circleci
+Clearbanc,1,clearbanc
+Coalition,1,coalition
+Cockroach Labs,1,cockroach labs
+Code42,1,code42
+Coder,1,coder
+Coinsquare,1,coinsquare
+CommonBond,1,commonbond
+Convoy,1,convoy
+Craft,1,craft
+Current,1,current
+Cybereason,1,cybereason
+Dataiku,1,dataiku
+Dave,1,dave
+Deliverr,1,deliverr
+Digit,1,digit
+Domino,1,domino
+Dremio,1,dremio
+Dribbble,1,dribbble
+DuckDuckGo,1,duckduckgo
+Duolingo,2,duolingo
+Earnin,1,earnin
+Eightfold,1,eightfold
+Envoy,1,envoy
+Everlaw,1,everlaw
+Faire,1,faire
+Farmers Business Network,1,farmers business network
+Fictiv,1,fictiv
+Figma ,1,figma 
+Figure,1,figure
+FinancialForce,1,financialforce
+Fivetran,1,fivetran
+FLEXE,1,flexe
+Flywire,1,flywire
+ForgeRock,1,forgerock
+Forter,1,forter
+Fountain,1,fountain
+Freshworks,1,freshworks
+Front,1,front
+Fullstory,1,fullstory
+Fundbox,1,fundbox
+Fuze,1,fuze
+G2,1,g2
+Gatsby,1,gatsby
+Gem,1,gem
+GitHub,2,github
+GitLab,2,gitlab
+Gladly,1,gladly
+Glossier,1,glossier
+GOAT,1,goat
+Gong,1,gong
+Grafana,1,grafana
+Grammarly,1,grammarly
+Greenhouse,2,greenhouse
+Greenlight,1,greenlight
+GrubHub,2,grubhub
+Guild Education,1,guild education
+Handshake,1,handshake
+Harness,1,harness
+HashiCorp ,1,hashicorp 
+Health IQ,1,health iq
+Heap Analytics,1,heap analytics
+HelloSign,1,hellosign
+Highspot,1,highspot
+Hippo Insurance,1,hippo insurance
+HireVue,1,hirevue
+Hopper,1,hopper
+Hyperscience,1,hyperscience
+Ibotta,1,ibotta
+Imgur,3,imgur
+Imply,1,imply
+inDriver,1,indriver
+Innovium,1,innovium
+Intercom,1,intercom
+Intuit,1,intuit
+InVision,1,invision
+Ionic,1,ionic
+ipsy,1,ipsy
+Iterable,1,iterable
+JotForm,1,jotform
+Juniper Square,1,juniper square
+Justworks,1,justworks
+Khan Academy,2,khan academy
+Klarna,1,klarna
+Komodo Health,1,komodo health
+Kong,1,kong
+Kustomer,1,kustomer
+Later,1,later
+LaunchDarkly,1,launchdarkly
+LendingHome,1,lendinghome
+Linode,1,linode
+Lyra Health,1,lyra health
+MailChimp,2,mailchimp
+MarkForged,1,markforged
+Mattermost,1,mattermost
+Medium,1,medium
+MessageBird,1,messagebird
+Meta,1,meta
+Minted,1,minted
+Miro,1,miro
+Modsy,1,modsy
+Monday,1,monday
+Moveworks,1,moveworks
+Mozilla,2,mozilla
+mParticle,1,mparticle
+N3twork,1,n3twork
+Narvar,1,narvar
+Netlify,1,netlify
+Newsela,1,newsela
+Next Insurance,1,next insurance
+nference,1,nference
+Notion,1,notion
+OfferUp,1,offerup
+Olive,1,olive
+OneSource Virtual,1,onesource virtual
+OneTrust,1,onetrust
+Outdoorsy,1,outdoorsy
+Outreach,1,outreach
+Owl Labs,1,owl labs
+Pagerduty,1,pagerduty
+PandaDoc,1,pandadoc
+Pendo,1,pendo
+Perceptyx,1,perceptyx
+Pipe,1,pipe
+Podium,1,podium
+Pond5,1,pond5
+Postman,1,postman
+Postmark,1,postmark
+Prodege,1,prodege
+Public,1,public
+Pulimi,1,pulimi
+Pusher,1,pusher
+Qualia,1,qualia
+ReadMe,1,readme
+Reddit,2,reddit
+Redhat,1,redhat
+Redis Labs,1,redis labs
+Rent the Runway,1,rent the runway
+ReTool,1,retool
+Salsify,1,salsify
+Scale AI,1,scale ai
+SendBird,1,sendbird
+SentinelOne,1,sentinelone
+Sentry,1,sentry
+ServiceTitan,1,servicetitan
+Sezzle,1,sezzle
+Shippo,1,shippo
+Shipt,1,shipt
+Side,1,side
+Sketch,1,sketch
+Skydio,1,skydio
+Sonder,1,sonder
+Soundcloud,1,soundcloud
+SpotOn,1,spoton
+Sprinklr,1,sprinklr
+Stash,1,stash
+Stedi,1,stedi
+Stoplight,1,stoplight
+Stord,1,stord
+Strava,1,strava
+Stream,1,stream
+StreamSets,1,streamsets
+SurveyMonkey,2,surveymonkey
+Synack,1,synack
+Sysdig,1,sysdig
+Talkdesk,1,talkdesk
+Tally,1,tally
+Tastemade,1,tastemade
+Tastyworks,1,tastyworks
+Teachable,1,teachable
+Teamwork,1,teamwork
+Tekion,1,tekion
+The Zebra,1,the zebra
+Thompson Reuters,1,thompson reuters
+ThoughtSpot,2,thoughtspot
+Toggl,1,toggl
+Turo,1,turo
+Twilio,2,twilio
+Typeform,1,typeform
+Udacity,2,udacity
+Udemy,1,udemy
+Ujet,1,ujet
+Unqork,1,unqork
+Upgrade,1,upgrade
+Upsie,1,upsie
+Upwork,2,upwork
+Varsity Tutors,1,varsity tutors
+Vectra,1,vectra
+Venafi,1,venafi
+Vercel,1,vercel
+Verkada,1,verkada
+VSCO,1,vsco
+Wealthfront,2,wealthfront
+Wealthsimple,1,wealthsimple
+Webflow,1,webflow
+Weee!,1,weee!
+Wheel,1,wheel
+WHOOP,1,whoop
+WordPress,1,wordpress
+WorkBoard,1,workboard
+Workrise,1,workrise
+WP Engine,1,wp engine
+XANT,1,xant
+YapStone,1,yapstone
+Yumi,1,yumi
+Zapier,1,zapier
+Zenoti,1,zenoti
+Zest AI,1,zest ai
+Propeller Health,1,propeller health
+Raven,1,raven
+EatStreet,1,eatstreet
+GrammaTech,1,grammatech
+Nextpoint,1,nextpoint
+Forte Research,1,forte research
+Symphony,1,symphony
+PerBlue,1,perblue
+WTS Paradigm,1,wts paradigm
+RateLinx,1,ratelinx
+Amazon - ShopBop,1,amazon - shopbop
+Sai People Solutions,1,sai people solutions
+Baker Tilly,1,baker tilly
+RockAuto,1,rockauto
+Johnson Health Tech,1,johnson health tech
+CUNA Mutual Group,1,cuna mutual group
+AmFam Insurance,1,amfam insurance
+TDS Telecom,1,tds telecom
+SSM Health,1,ssm health
+Healthgrades,1,healthgrades
+Flexion,1,flexion
+Moxe Health,1,moxe health
+HDWB Consulting,1,hdwb consulting
+Epic - Intern,1,epic - intern
+Netchemia,1,netchemia
+EMC^2,1,emc^2
+Technosoft Corp,1,technosoft corp
+The Nerdery,1,the nerdery
+DSI,1,dsi
+Saepio Technologies,1,saepio technologies
+Cerner,1,cerner
+Cox Media Group,1,cox media group
+Nigel Frank International,1,nigel frank international
+RSA,1,rsa
+Sporting Innovations iOS,1,sporting innovations ios
+Sporting Innovations Java,1,sporting innovations java
+VinSolutions,1,vinsolutions
+Shamrock Trading Corp,1,shamrock trading corp
+ALTEK,1,altek
+Black & Veatch,1,black & veatch
+Alvalara,1,alvalara
+SMG,1,smg
+ScriptPro,1,scriptpro
+Modis,1,modis
+Euronet Worldwide,1,euronet worldwide
+Willard Powell,1,willard powell
+Herzog Railroad Services,1,herzog railroad services
+MySmartPlans,1,mysmartplans
+PC-Doctor Inc,1,pc-doctor inc
+"BeyondSoft, Inc",1,"beyondsoft, inc"
+Scientific Games,1,scientific games
+Video Gaming Tech,1,video gaming tech
+Transmosis,1,transmosis
+Clarity Consulting,1,clarity consulting
+MAQ Consulting,1,maq consulting
+Curalate,1,curalate
+Akvelon,1,akvelon
+Liberty Mutual,1,liberty mutual
+Vertafore,1,vertafore
+Cardigm,1,cardigm
+Bungie,1,bungie
+Gearbox Software,1,gearbox software
+Nintendo,1,nintendo
+Sledgehammer Games,1,sledgehammer games
+Optimizely,1,optimizely
+TripAdvisor,1,tripadvisor
+AOL,1,aol
+Beepi,1,beepi
+Bethesda Softworks,1,bethesda softworks
+Elemental,1,elemental
+Epic Games,1,epic games
+ESPN,1,espn
+Fulcrum,1,fulcrum
+Intel Corporation,1,intel corporation
+Machine Zone,1,machine zone
+NetSuite,1,netsuite
+Oculus,1,oculus
+"RetailMeNot, Inc.",1,"retailmenot, inc."
+Rockstar Games,1,rockstar games
+Snapchat,1,snapchat
+SproutSocial,1,sproutsocial
+Symantec,1,symantec
+Raytheon,1,raytheon
+American Express,1,american express
+Seagate,1,seagate
+Kabam,1,kabam
+Dot & Bo,1,dot & bo
+IXL Learning,1,ixl learning
+Tango,1,tango
+Insomniac Games,1,insomniac games
+IGT,1,igt
+Epic,1,epic
+Ubisoft,1,ubisoft
+ZocDoc,1,zocdoc
+Hawaiian Airlines,1,hawaiian airlines
+Goodreads,1,goodreads
+Electronic Arts,1,electronic arts
+Black Duck Software,1,black duck software
+YouTube,1,youtube
+CIA,1,cia
+Genesys,1,genesys
+CDK Global,1,cdk global
+NASA,1,nasa
+Orbitz,1,orbitz
+Biotronik,1,biotronik
+Hamilton,1,hamilton
+Intrepid Pursuits,1,intrepid pursuits
+Zappos,1,zappos
+21,2,21
+23andMe,1,23andme
+Achievers,1,achievers
+Addepar,1,addepar
+AeroSF,1,aerosf
+AltSchool,1,altschool
+Amobee,1,amobee
+Ancestry,1,ancestry
+ANDigital,1,andigital
+AppFolio,1,appfolio
+AppNexus,1,appnexus
+Apptio,1,apptio
+Aspiration Software,1,aspiration software
+Audience,1,audience
+August,1,august
+AutomatedInsights,1,automatedinsights
+Automattic,1,automattic
+BambooHR,1,bamboohr
+Bitly,1,bitly
+Bitnami,1,bitnami
+BitTorrent,1,bittorrent
+Bloomz,1,bloomz
+Brigade,1,brigade
+BuildASign,1,buildasign
+BuildZoom,1,buildzoom
+Busbud,1,busbud
+BuzzFeed,1,buzzfeed
+Captain401,1,captain401
+Casetext,1,casetext
+Casper,1,casper
+Catchpoint,1,catchpoint
+Centro,1,centro
+change.org,1,change.org
+Chewy,1,chewy
+Chexology,1,chexology
+CircleUp,1,circleup
+ClearSlide,1,clearslide
+Clue,1,clue
+Clustrix,1,clustrix
+Codecademy,1,codecademy
+Codeship,1,codeship
+CornerStone OnDemand,1,cornerstone ondemand
+Couchbase,1,couchbase
+Couchsurfing,1,couchsurfing
+Counsyl,1,counsyl
+CreditKarma,1,creditkarma
+CrowdRise,1,crowdrise
+CrowdStar,1,crowdstar
+CrunchBase,1,crunchbase
+Cumulus Networks,1,cumulus networks
+DigitalOcean,1,digitalocean
+Disqus,1,disqus
+DJI,1,dji
+Docker,1,docker
+DraftKings,1,draftkings
+EagleView,1,eagleview
+Edmodo,1,edmodo
+Edmunds,1,edmunds
+EdX,1,edx
+eHarmony,1,eharmony
+Elasticsearch,1,elasticsearch
+EnergySavvy,1,energysavvy
+Eventbrite,1,eventbrite
+Evernote,1,evernote
+Farfetch,1,farfetch
+Fitbit,1,fitbit
+Flipboard,1,flipboard
+Foursquare,1,foursquare
+Funding Circle,1,funding circle
+General Assembly,1,general assembly
+Gree,1,gree
+Guidewire,1,guidewire
+GumGum,1,gumgum
+HackerRank,1,hackerrank
+Hailo,1,hailo
+Hipmunk,1,hipmunk
+Idealab,1,idealab
+Illumio,1,illumio
+Indiegogo,1,indiegogo
+Infinera,1,infinera
+InfluxDB,1,influxdb
+InMobi,1,inmobi
+Integral Ad Science,1,integral ad science
+Intellisis,1,intellisis
+Intentional,1,intentional
+Interactive Intelligence,1,interactive intelligence
+Jawbone,1,jawbone
+Jet,1,jet
+JetBrains,1,jetbrains
+Jive,1,jive
+Jobvite,1,jobvite
+Kickstarter,1,kickstarter
+Kik,1,kik
+Kinnek,1,kinnek
+LastPass,1,lastpass
+LendUp,1,lendup
+Lever,1,lever
+Lifesize,1,lifesize
+Lithium,1,lithium
+Livescribe,1,livescribe
+Logitech,1,logitech
+Looker,1,looker
+Lucid Software,1,lucid software
+Luxe,1,luxe
+Marketo,1,marketo
+Mattermark,1,mattermark
+Matterport,1,matterport
+MaxCDN,1,maxcdn
+Medallia,1,medallia
+Meetup,1,meetup
+Metromile,1,metromile
+Mind Candy,1,mind candy
+MixBit,1,mixbit
+Mixpanel,1,mixpanel
+MongoLab,1,mongolab
+MuleSoft,1,mulesoft
+Munchery,1,munchery
+New Relic,1,new relic
+Nexmo,1,nexmo
+Oblong,1,oblong
+Onefootball,1,onefootball
+OneLogin,1,onelogin
+Open Whisper Systems,1,open whisper systems
+OpenTable,1,opentable
+Opower,1,opower
+Pivotal,1,pivotal
+Postmates,1,postmates
+Prezi,1,prezi
+Priceline,1,priceline
+Prism,1,prism
+Pristine,1,pristine
+Prominic,1,prominic
+Pure Storage,1,pure storage
+Qlik,1,qlik
+Quantcast,1,quantcast
+Quizlet,1,quizlet
+Rackspace,1,rackspace
+Radius,1,radius
+Redbull,1,redbull
+Redfin,1,redfin
+RetailNext,1,retailnext
+Riot Games,1,riot games
+RiskIQ,1,riskiq
+SADA Systems,1,sada systems
+Scribd,1,scribd
+Seamless,1,seamless
+SeatGeek,1,seatgeek
+SendGrid,1,sendgrid
+ShopCo,1,shopco
+ShoreTel,1,shoretel
+Shutterfly,1,shutterfly
+Sift Science,1,sift science
+Signifyd,1,signifyd
+SimplyCredit,1,simplycredit
+SKHMS,1,skhms
+Skillshare,1,skillshare
+Slice,1,slice
+Smartsheet,1,smartsheet
+SpaceX,1,spacex
+Squarespace,1,squarespace
+SSi Micro,1,ssi micro
+Study.com,1,study.com
+TED,1,ted
+Teespring,1,teespring
+Telenav,1,telenav
+The Climate Corporation,1,the climate corporation
+The League,1,the league
+Thumbtack,1,thumbtack
+Tillster,1,tillster
+Tilt,1,tilt
+Tint,1,tint
+TiVo,1,tivo
+Travis CI,1,travis ci
+Trustwave,1,trustwave
+Unity,1,unity
+Valve,1,valve
+Venmo,1,venmo
+VHX,1,vhx
+Vimeo,1,vimeo
+Vox Media,1,vox media
+Wattpad,1,wattpad
+WayUp,1,wayup
+Weebly,1,weebly
+Wikimedia Foundation,1,wikimedia foundation
+Work Market,1,work market
+Workiva,1,workiva
+Xero,1,xero
+Yext,1,yext
+YouNow,1,younow
+Zoosk,1,zoosk
+Zuora,1,zuora
